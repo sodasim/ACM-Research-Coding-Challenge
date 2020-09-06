@@ -26,5 +26,5 @@ Regardless if you can or cannot answer the question, provide a short explanation
 I decided to use one of scikit-learn's data clustering algorithms. The one I chose was DBSCAN (Density-based spatial clustering of applications with noise). As indicated by the name, it determines clusters by their density. My code reformats the .csv file and uses the DBSCAN algorithm as indicated on scikit-learn's website. It determines that there are 3 clusters.
 
 Libraries:
-sklearn
-numpy
+- sklearn
+- numpy
