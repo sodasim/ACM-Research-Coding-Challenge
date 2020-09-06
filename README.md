@@ -32,3 +32,6 @@ I also used the sklearn library to generate a plot visualzing the clusters in or
 Libraries:
 - sklearn
 - numpy
+
+Referenced code from:
+- [scikit-learn's demo](https://scikit-learn.org/stable/auto_examples/cluster/plot_dbscan.html#sphx-glr-auto-examples-cluster-plot-dbscan-py)
